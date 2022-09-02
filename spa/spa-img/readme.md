@@ -1,0 +1,1 @@
+**A responsive cloned website built with HTML and CSS** 
